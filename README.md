@@ -19,8 +19,4 @@ Each game is implemented from scratch using **C language** and can be played in 
 
 ---
 
-##  Compilation and Execution
 
-### Compile:
-```bash
-gcc CS-Project.c -o games
